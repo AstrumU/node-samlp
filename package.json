@@ -1,6 +1,6 @@
 {
-  "name": "samlp",
-  "version": "3.4.1",
+  "name": "@astrumu/samlp",
+  "version": "3.4.2",
   "description": "SAML Protocol server middleware",
   "main": "lib/index.js",
   "scripts": {
@@ -19,11 +19,11 @@
   "author": "Auth0",
   "license": "mit",
   "dependencies": {
+    "@astrumu/saml": "^0.13.1",
     "@auth0/thumbprint": "0.0.6",
     "ejs": "2.5.5",
     "flowstate": "^0.4.0",
     "querystring": "^0.2.0",
-    "saml": "^0.12.1",
     "xml-crypto": "^0.10.1",
     "xmldom": "auth0/xmldom#v0.1.19-auth0_1",
     "xpath": "0.0.5",
