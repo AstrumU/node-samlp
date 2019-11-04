@@ -1,5 +1,5 @@
 {
-  "name": "@astrumu/samlp",
+  "name": "samlp",
   "version": "3.4.2",
   "description": "SAML Protocol server middleware",
   "main": "lib/index.js",
@@ -19,7 +19,7 @@
   "author": "Auth0",
   "license": "mit",
   "dependencies": {
-    "@astrumu/saml": "^0.13.1",
+    "saml": "pushpabrol/node-saml",
     "@auth0/thumbprint": "0.0.6",
     "ejs": "2.5.5",
     "flowstate": "^0.4.0",
