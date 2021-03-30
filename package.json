@@ -25,7 +25,7 @@
     "querystring": "^0.2.0",
     "saml": "github:astrumu/node-saml",
     "xml-crypto": "2.1.1",
-    "xmldom": "auth0/xmldom#v0.1.19-auth0_1",
+    "xmldom": "github:auth0/xmldom#v0.1.19-auth0_1",
     "xpath": "0.0.5",
     "xtend": "^1.0.3"
   },
